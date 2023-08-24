@@ -1,4 +1,5 @@
 #Módulo:
+
 Funcionalidad organizada en uno o varios archivos JavaScript que puede ser reutilizada en una aplicación.
 Ventajas:
 Evitar repetición del código.
